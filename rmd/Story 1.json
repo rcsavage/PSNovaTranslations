@@ -17101,47 +17101,37 @@
   },
   "109040070030007": {
     "OriginalText": "アークス特殊惑星探査隊オルター所属、\nデルタ・ヴァリアントです。",
-    "Text": "",
+    "Text": "Orter belongs to the Arcus special planetary exploration team, \n Delta Valiant.",
     "Enabled": false
   },
   "109040070040007": {
     "OriginalText": "え？ いいのそんな報告で？\nじゃあ、言うわよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Huh? With such a report? \n Well then.",
+    "Enabled": true
   },
   "109040070050007": {
     "OriginalText": "当部隊は惑星マキアにてミッションを完了。\n探査した惑星は美しい星でした。",
-    "Text": "",
-    "Enabled": false
+    "Text": "On the planet Makia, our unit completed the mission. \n The beautiful star planet was explored.",
+    "Enabled": true
   },
   "109040070060061": {
     "OriginalText": "あぁ？ 何を言ってるんだ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "Ahh? What are you saying?",
+    "Enabled": true
   },
   "109040070070007": {
     "OriginalText": "繰り返す。ミッションは完了。\n探査した惑星はとても美しい星でした。",
-    "Text": "",
-    "Enabled": false
-  },
-  "109050010010000": {
-    "OriginalText": "『スタッフロール』が再生されます。",
-    "Text": "",
-    "Enabled": false
-  },
-  "109050020010000": {
-    "OriginalText": "ルティナによる各キャラの『後日談』が流れます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "repeat. The mission is completed.\n The beautiful star planet was explored.",
+    "Enabled": true
   },
   "109050030010000": {
     "OriginalText": "『後日談まとめの言葉』が入ります。",
-    "Text": "",
-    "Enabled": false
+    "Text": "Comments will be included",
+    "Enabled": true
   },
   "199999999999900": {
     "OriginalText": "ダミーデータ",
-    "Text": "",
-    "Enabled": false
+    "Text": "Dummy data",
+    "Enabled": true
   }
 }
